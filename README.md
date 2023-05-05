@@ -41,4 +41,13 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ==============================================================================
 
+## Contributors
+Thank you to the following contributors who have helped to improve this project:
+
+| Name | Email | Phone| 
+| ------ | ------ | ------|
+| Sajal Halder | sajal@bjitacademy.com | 01918768801
+| jubayer Bin hedayet |jubayer.hedayet@bjitacademy.com | 01601006802
+|  Md Naimur Rahman |  naimur.rahman@bjitacademy.com | 01405092396
+|  kahild Shifullah |  khalid.shifullah@bjitacademy.com | 01405092396
 
