@@ -1,130 +1,50 @@
-# Italian Sub Sandwich
+ <img width="100%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
+<h1 align="left">Hi 👋, I'm Jubayer Bin Hedayet</h1>
+<hr>
+<h3 align="left">Software Engineer(Trainee) @ BJIT Academy</h3>
 
-Looking for a sandwich to make for a quick weeknight dinner, take to your next backyard BBQ or simply divide, wrap, and eat for lunch throughout the week? Well, this Italian Super Sub Sandwich is the answer. It’s loaded with salami, turkey breast, pepperoni, and, of course, banana peppers
+<p> I'm a passionate java developer from Bangladesh As a Beginner through hard work and dedication, I intend to learn and build a career  where I can perform my tasks efficiently by making the best use of my analytical skills.</p>
 
-## What Is an Italian Sandwich?
+<h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-Generally, an Italian sandwich has a combination of cured meats – I like to add roast turkey to mine also, but that’s not completely traditional.
-For cheeses, provolone is standard and what I like best, but Swiss is nice too!
+<p>Currently, I am working on BJET Academy (a Bangladesh Japan IT Engineer Training Program) as a JAVA Trainee.</p>
 
-Besides loads of meats and cheese on an Italian sandwich, it usually has a chopped mix of pickled.
+<h3 align = "left"> 🧠 What I'm currently learning </h3>
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
+<p>I'm currently learning Spring Boot, Java2EE, AWS  to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful java developer.</p>
 
-## Why Italian Subs Make Great Party Sandwiches
+<h3 align = "left"> 💬 Ask me about </h3>
 
-This is such a great party sandwich option because you just make one huge sandwich and chop it up into the portions you need.
+<ul>
+  <li>Topics:CP, DSA, OOP, Git/GitHub</li>
+  <li>Technologies: Reactjs, Nodejs , Java, Javascript, Mongodb, Firebase, Mysql</li>
+  <li>How to reach me: talhajubayer678@gmail.com</li>
+</ul>
 
-If you aren’t planning any parties anytime soon, this makes great fast lunches or a quick and easy dinner for a house of hungry people!
+<h3 align="left">💻Work Experience</h3>
+- Trainee Software Engineer, BJIT Academy, April 2023 - Present
 
-## The Best Bread for Italian Sandwiches
+  - Full-stack Web Developer (Java2 EE)
+<hr>
+  
+<h3 align="left">🎓Education</h3>
+-American International University Bangladesh, B.Sc. in Computer Science and Engineering, July 2022 
+<hr>
 
-I like a soft Italian loaf for my sandwich. The key to making this loaf work is to cut it in half and remove some of the inner breading from the top half of the loaf. This will give you more room for the fillings!
+<h3 align="left">📚Training</h3>
 
-## Suggestions and Substitutions
+- Java2EE in BJIT
 
-One of the most fun things to do for a sandwich like this is to go to your favorite deli and just pick a few cured meats to add to your sandwich.
-
-When it comes to vegetables, you can definitely get creative.
-## Tips and Tricks for Packing This Sandwich
-
-If you are packing this up for a party on the go, I’d recommend wrapping the sandwich whole and chopping it when you get to where you are going.
-
-#### Ingredients
-
-1. 1 large loaf Italian bread
-2. 1/3 cup mayonnaise
-3. 4 ounces Genoa salami
-4. 4 ounces pepperoni
-5. 8 ounces roasted turkey breast
-6. 6 ounces Provolone cheese
-7. 2 cups chopped iceberg lettuce
+- Web Development(MERN)in Programming Hero
+<hr>
 
 
-## Method
-## Prepare the bread:
-Cut Italian loaf in half longwise with a serrated knife. Scoop out some of the bread in the top half of the loaf. This will give you more room for toppings and make sure the sandwich doesn’t fall apart. Just don’t go too deep. You still need it to hold together. (Use the leftover bread to make breadcrumbs!)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## Layer the meats and cheese:
-Spread mayonnaise on the bottom half of the loaf. Layer the meats and cheese on the bottom portion of the loaf in any order you like. I prefer to the do the cured meats on the bottom, then turkey, and then cheese, but there is no science to it.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayer456&show_icons=true&locale=en&layout=compact" alt="jubayer456" /></p>
 
-## Finish the sandwich:
-Chop the iceberg lettuce, tomatoes, banana peppers, and olives. Add a bed of lettuce to the top half of the loaf (that has been hollowed slightly).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubayer456&show_icons=true&locale=en" alt="jubayer456" /></p>
 
-Top with chopped tomatoes, peppers, and olives. Drizzle the vegetables liberally with extra virgin olive oil, red wine vinegar, and Italian seasoning.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer456&" alt="jubayer456" /></p>
 
-## License
-This project is licensed under the license. See the 
-JubayerBinHedayet.md file for details.
-
-| Name | Email | Phone| 
-| ------ | ------ | ------|
-| jubayer Bin hedayet |jubayer.hedayet@bjitacademy.com | 1234555
-| Sajal Halder | sajal@bjitacademy.com | 2345566
-|  kazi nazmul |  kazi.nazmul@bjitacademy.com | 341222122
-# Italian Sub Sandwich
-
-Looking for a sandwich to make for a quick weeknight dinner, take to your next backyard BBQ or simply divide, wrap, and eat for lunch throughout the week? Well, this Italian Super Sub Sandwich is the answer. It’s loaded with salami, turkey breast, pepperoni, and, of course, banana peppers
-
-## What Is an Italian Sandwich?
-
-Generally, an Italian sandwich has a combination of cured meats – I like to add roast turkey to mine also, but that’s not completely traditional.
-For cheeses, provolone is standard and what I like best, but Swiss is nice too!
-
-Besides loads of meats and cheese on an Italian sandwich, it usually has a chopped mix of pickled.
-
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-
-## Why Italian Subs Make Great Party Sandwiches
-
-This is such a great party sandwich option because you just make one huge sandwich and chop it up into the portions you need.
-
-If you aren’t planning any parties anytime soon, this makes great fast lunches or a quick and easy dinner for a house of hungry people!
-
-## The Best Bread for Italian Sandwiches
-
-I like a soft Italian loaf for my sandwich. The key to making this loaf work is to cut it in half and remove some of the inner breading from the top half of the loaf. This will give you more room for the fillings!
-
-## Suggestions and Substitutions
-
-One of the most fun things to do for a sandwich like this is to go to your favorite deli and just pick a few cured meats to add to your sandwich.
-
-When it comes to vegetables, you can definitely get creative.
-## Tips and Tricks for Packing This Sandwich
-
-If you are packing this up for a party on the go, I’d recommend wrapping the sandwich whole and chopping it when you get to where you are going.
-
-#### Ingredients
-
-1. 1 large loaf Italian bread
-2. 1/3 cup mayonnaise
-3. 4 ounces Genoa salami
-4. 4 ounces pepperoni
-5. 8 ounces roasted turkey breast
-6. 6 ounces Provolone cheese
-7. 2 cups chopped iceberg lettuce
-
-
-## Method
-## Prepare the bread:
-Cut Italian loaf in half longwise with a serrated knife. Scoop out some of the bread in the top half of the loaf. This will give you more room for toppings and make sure the sandwich doesn’t fall apart. Just don’t go too deep. You still need it to hold together. (Use the leftover bread to make breadcrumbs!)
-
-## Layer the meats and cheese:
-Spread mayonnaise on the bottom half of the loaf. Layer the meats and cheese on the bottom portion of the loaf in any order you like. I prefer to the do the cured meats on the bottom, then turkey, and then cheese, but there is no science to it.
-
-## Finish the sandwich:
-Chop the iceberg lettuce, tomatoes, banana peppers, and olives. Add a bed of lettuce to the top half of the loaf (that has been hollowed slightly).
-
-Top with chopped tomatoes, peppers, and olives. Drizzle the vegetables liberally with extra virgin olive oil, red wine vinegar, and Italian seasoning.
-
-## License
-This project is licensed under the license. See the 
-JubayerBinHedayet.md file for details.
-
-| Name | Email | Phone| 
-| ------ | ------ | ------|
-| jubayer Bin hedayet |jubayer.hedayet@bjitacademy.com | 1234555
-| Sajal Halder | sajal@bjitacademy.com | 2345566
-|  kazi nazmul |  kazi.nazmul@bjitacademy.com | 341222122
